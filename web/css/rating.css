@@ -1,0 +1,7 @@
+.btn-group-justified .btn {
+	border-radius: 0;
+}
+
+form#w0 button[type=submit] {
+	margin-top: 24px;
+}
